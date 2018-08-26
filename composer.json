@@ -1,0 +1,9 @@
+{
+    "name": "alirezamirzakhani/telegram-quiz-bot",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Robot\\" : "Robot/"
+      }
+    }
+}
